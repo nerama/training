@@ -21,9 +21,8 @@
         <distributor>Digital Latin Library</distributor>
         <date>2017</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/">
-            Distributed under a Creative Commons Attribution 4.0 International
-            License.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"> Distributed under a
+            Creative Commons Attribution 4.0 International License.</licence>
         </availability>
       </publicationStmt>
       <seriesStmt>
@@ -39,65 +38,90 @@
     <front xml:id="front">
       <div type="section" xml:id="preface">
         <head>Preface</head>
-        <p>​The purpose of the LATINTATIAN website is to make available for 
-          scholars and students of the European Middle Ages a convenient and 
-          accurate text of Tatian's Gospel Harmony (Diatesseron) in medieval 
-          Latin with an English translation.</p>
+        <p>​The purpose of the LATINTATIAN website is to make available for scholars and students of
+          the European Middle Ages a convenient and accurate text of Tatian's Gospel Harmony
+          (Diatesseron) in medieval Latin with an English translation.</p>
         <div type="section" xml:id="preface-section-1">
           <!--This is a section within the preface. Editors should use
           sections (distinguished by <div>) to organize the content of the edition's preface.-->
           <head>Tatian and his Writings</head>
-          <p>Tatian was a Christian intellectual of Assyrian origin who lived in the second century CE.  
-            The son of pagan parents, he converted to Christianity in Rome, allegedly through the influence of Justin Martyr.  
-            Some years later (in 172 CE, according to Eusebius), Tatian fell out of favor with the Christian community at Rome 
-            and returned to Mesopotamia, where he set himself up as a teacher of Christian doctrine.  
-            Later traditions (recounted by Eusebius and Jerome) remembered him as the founder of the ascetic Christian 
-            group know as the Encratites, who abstained from marriage and meat.  In the fourth century the Encratites 
-            were conflated with the Manichaeans and condemned as heretics by imperial edict.</p>
-          <p>Tatian was the author of several texts.  His <hi rend="italic">Oration to the Greeks</hi> was a popular work of early Christian apology 
-            written in Greek and aimed at pagan readers.  It argued that Christian scriptures offered a philosophy that was 
-            superior to Greek and Roman intellectual traditions.  Tatian also wrote two other treatises -- <hi rend="italic">On Animals </hi>and <hi rend="italic">On Perfection According to the Savior</hi> -- 
-            both of which are now lost.  By far his most enduring composition, however, was a harmony of the four canonical Gospels with some excerpts from 
-            the Acts of the Apostles known as the <hi rend="italic">Diatesseron</hi> (from the Greek, meaning "out of four").  The purpose of this work was to present the life of 
-            Christ as a single, coherent story, while reconciling some of the troubling contradictions between the Gospel narratives 
-            (for example, the conflicting genealogical tables in Luke and Matthew).  Scholars believe that Tatian composed the <hi rend="italic">Diatesseron</hi> either 
-            in Syriac or in Greek.  The text was popular in the eastern Christian church until the fifth century, when it was actively suppressed 
-            due to the growing association of Tatian with the Encratite heresy.</p>
-          <p>Tatian's <hi rend="italic">Diatesseron</hi> survives in full only in Latin and Arabic translations.  It circulated in Latin as early as the second century, 
-            representing one of the earliest traditions of the translation of the Gospels into Latin (the so-called vetus Latina) and predating 
-            Jerome's Vulgate translation by more than two centuries.  But the widespread adoption of Jerome's translation in the early Middle Ages 
-            compelled scribes to correct manuscripts of the Latin Diatesseron to conform to the conventions of the Vulgate.  As a result, almost all 
-            traces of the vetus Latina version of the <hi rend="italic">Diatesseron</hi> are lost.  Even so, Tatian's work was an important and widely read text in the Latin 
-            Middle Ages, surviving in dozens of manuscripts, sometimes alongside texts of the New Testament.  It was also an important tool for 
-            missionary activity, providing the source for the earliest Gospel harmonies composed in northern European vernacular languages, like 
-            the Old Saxon Heliand, from the ninth century.</p>
+          <p>Tatian was a Christian intellectual of Assyrian origin who lived in the second century
+            CE. The son of pagan parents, he converted to Christianity in Rome, allegedly through
+            the influence of Justin Martyr. Some years later (in 172 CE, according to Eusebius),
+            Tatian fell out of favor with the Christian community at Rome and returned to
+            Mesopotamia, where he set himself up as a teacher of Christian doctrine. Later
+            traditions (recounted by Eusebius and Jerome) remembered him as the founder of the
+            ascetic Christian group know as the Encratites, who abstained from marriage and meat. In
+            the fourth century the Encratites were conflated with the Manichaeans and condemned as
+            heretics by imperial edict.</p>
+          <p>Tatian was the author of several texts. His <hi rend="italic">Oration to the
+              Greeks</hi> was a popular work of early Christian apology written in Greek and aimed
+            at pagan readers. It argued that Christian scriptures offered a philosophy that was
+            superior to Greek and Roman intellectual traditions. Tatian also wrote two other
+            treatises -- <hi rend="italic">On Animals </hi>and <hi rend="italic">On Perfection
+              According to the Savior</hi> -- both of which are now lost. By far his most enduring
+            composition, however, was a harmony of the four canonical Gospels with some excerpts
+            from the Acts of the Apostles known as the <hi rend="italic">Diatesseron</hi> (from the
+            Greek, meaning "out of four"). The purpose of this work was to present the life of
+            Christ as a single, coherent story, while reconciling some of the troubling
+            contradictions between the Gospel narratives (for example, the conflicting genealogical
+            tables in Luke and Matthew). Scholars believe that Tatian composed the <hi rend="italic"
+              >Diatesseron</hi> either in Syriac or in Greek. The text was popular in the eastern
+            Christian church until the fifth century, when it was actively suppressed due to the
+            growing association of Tatian with the Encratite heresy.</p>
+          <p>Tatian's <hi rend="italic">Diatesseron</hi> survives in full only in Latin and Arabic
+            translations. It circulated in Latin as early as the second century, representing one of
+            the earliest traditions of the translation of the Gospels into Latin (the so-called
+            vetus Latina) and predating Jerome's Vulgate translation by more than two centuries. But
+            the widespread adoption of Jerome's translation in the early Middle Ages compelled
+            scribes to correct manuscripts of the Latin Diatesseron to conform to the conventions of
+            the Vulgate. As a result, almost all traces of the vetus Latina version of the <hi
+              rend="italic">Diatesseron</hi> are lost. Even so, Tatian's work was an important and
+            widely read text in the Latin Middle Ages, surviving in dozens of manuscripts, sometimes
+            alongside texts of the New Testament. It was also an important tool for missionary
+            activity, providing the source for the earliest Gospel harmonies composed in northern
+            European vernacular languages, like the Old Saxon Heliand, from the ninth century.</p>
         </div>
         <div type="section" xml:id="preface-section-2">
           <head>Codex Sangallensis 56</head>
-          <p>Despite its importance to medieval Christians, the Latin tradition of the Diatesseron has received very little attention from scholars and 
-            is virtually unknown among general readers.  LATINTATIAN attempts to remedy this by providing a single-text edition and English translation of 
-            one of the earliest copies of the Diatesseron in Latin: an early ninth-century manuscript written at Fulda and now housed at the abbey of St. Gall 
-            (MS St. Gallen, Stiftsbibliothek, Codex Sangallensis 56  <ptr target="http://www.e-codices.unifr.ch/en/csg/0056"/>).  This manuscript presents Tatian's Diatesseron in Latin and Old High German side-by-side 
-            in parallel columns.  While the Old High German text is important to linguists because it represents one of the earliest and longest texts to survive 
-            in a German vernacular, our edition will comprise only the Latin portion of the manuscript.  Such an edition is long overdue.  The earliest publication 
-            of the Latin Diatesseron based on Codex Sangallensis 56 by Eduard Sievers (1892) is well over a century old and rife with errors.  The more recent 
-            publication of the same text by Achim Masser (1994) was prohibitively expensive when it was in print and is now out of print and not useful for teaching 
-            purposes.  Moreover, the only complete translation of Tatian's Gospel harmony into English appeared more than a century ago in the Ante-Nicene Fathers 
-            series (vol. 9, published in 1885).  Thus, LATINTATIAN provides for the first time a convenient Latin text of the Diatesseron based on an early manuscript 
-            witness alongside an accurate translation into modern English.</p>
-      </div>
-      <div type="section" xml:id="bibliography">
-        <head>Bibliography</head>
-        <!--This is where the bibliography for the edition is listed, including manuscript
+          <p>Despite its importance to medieval Christians, the Latin tradition of the Diatesseron
+            has received very little attention from scholars and is virtually unknown among general
+            readers. LATINTATIAN attempts to remedy this by providing a single-text edition and
+            English translation of one of the earliest copies of the Diatesseron in Latin: an early
+            ninth-century manuscript written at Fulda and now housed at the abbey of St. Gall (MS
+            St. Gallen, Stiftsbibliothek, Codex Sangallensis 56 <ptr
+              target="http://www.e-codices.unifr.ch/en/csg/0056"/>). This manuscript presents
+            Tatian's Diatesseron in Latin and Old High German side-by-side in parallel columns.
+            While the Old High German text is important to linguists because it represents one of
+            the earliest and longest texts to survive in a German vernacular, our edition will
+            comprise only the Latin portion of the manuscript. Such an edition is long overdue. The
+            earliest publication of the Latin Diatesseron based on Codex Sangallensis 56 by Eduard
+            Sievers (1892) is well over a century old and rife with errors. The more recent
+            publication of the same text by Achim Masser (1994) was prohibitively expensive when it
+            was in print and is now out of print and not useful for teaching purposes. Moreover, the
+            only complete translation of Tatian's Gospel harmony into English appeared more than a
+            century ago in the Ante-Nicene Fathers series (vol. 9, published in 1885). Thus,
+            LATINTATIAN provides for the first time a convenient Latin text of the Diatesseron based
+            on an early manuscript witness alongside an accurate translation into modern
+            English.</p>
+        </div>
+        <div type="section" xml:id="bibliography">
+          <head>Bibliography</head>
+          <!--This is where the bibliography for the edition is listed, including manuscript
         descriptions, and lists of early editions, modern editions, and other sources cited
         in the current edition. For more information on encoding the items in the bibliography
         see section 3 Bibliography below. -->
-        <p>William Lawrence Petersen's <hi rend="italic">Tatian's Diatesseron: Its Creation, Dissemination, Significance and History and Scholarship</hi> (Leiden, 1994) is an exhaustive resource
-          on Tatian and the Diatesseron tradition.  Tatian's <hi rend="italic">Oration to the Greeks</hi> has been edited and translated by Molly Whittaker in <hi rend="italic">Oratio ad Graecos and Fragments</hi> (Oxford, 1982).  
-          Earlier studies of the Latin Diatesseron in Codex Sangallensis 56 include Eduard Sievers, <hi rend="italic">Tatian, Lateinish und altdeutsch, mit ausführlichem Glossar</hi>, 2nd ed. (Paderborn, 1892) 
-          [the errors in which have been enumerated in Petersen, Tatian's Diatesseron, pp. 301-302]; and <hi rend="italic">Die lateinisch-althochdeutsche Tatianbilingue: Stiftsbibliothek St. Gallen Cod. 
-          56</hi>, ed. Achim Masser (Göttingen, 1994). </p>
-      </div>
+          <p>William Lawrence Petersen's <hi rend="italic">Tatian's Diatesseron: Its Creation,
+              Dissemination, Significance and History and Scholarship</hi> (Leiden, 1994) is an
+            exhaustive resource on Tatian and the Diatesseron tradition. Tatian's <hi rend="italic"
+              >Oration to the Greeks</hi> has been edited and translated by Molly Whittaker in <hi
+              rend="italic">Oratio ad Graecos and Fragments</hi> (Oxford, 1982). Earlier studies of
+            the Latin Diatesseron in Codex Sangallensis 56 include Eduard Sievers, <hi rend="italic"
+              >Tatian, Lateinish und altdeutsch, mit ausführlichem Glossar</hi>, 2nd ed. (Paderborn,
+            1892) [the errors in which have been enumerated in Petersen, Tatian's Diatesseron, pp.
+            301-302]; and <hi rend="italic">Die lateinisch-althochdeutsche Tatianbilingue:
+              Stiftsbibliothek St. Gallen Cod. 56</hi>, ed. Achim Masser (Göttingen, 1994). </p>
+        </div>
         <div type="section" xml:id="conspectus">
           <head>Conspectus</head>
           <!--A key to the special sigla and abbreviations used in the edition (drawn
@@ -109,7 +133,7 @@
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div type="textpart" n="1" xml:id="latinpart1">
-          <head>Chapter 1</head>
+          <head>Chapter 1 Latin</head>
           <!--Text goes here, according to the conventions laid out elsewhere in these guidelines.-->
 <!--Page 25, chapter 1-->
             <ab>Quoniam quidem multi
@@ -129,7 +153,7 @@
             ​<lb/>eruditus es ueritatem</ab>
           </div>
        <div type="textpart" n="2" xml:id="latinpart2">
-          <head>Chapter 2</head>
+          <head>Chapter 2 Latin</head>
 <!--Page 25, chapter 2-->
            <ab>In principio erat verbum
             <lb/>et verbum erat apud deum
@@ -141,7 +165,7 @@
             <lb/>quod factum est</ab>
        </div>
         <div type="textpart" n="3" xml:id="latinpart3">
-          <head>Chapter 3</head>
+          <head>Chapter 3 Latin</head>
  <!--Page 25, chapter 3-->
             <ab>In ipso vita erat
             <lb/>et vita erat lux hominum
@@ -200,7 +224,7 @@
             <lb/>processit in diebus suis</ab>
         </div>
         <div type="textpart" n="4" xml:id="latinpart4">
-          <head>Chapter 4</head>
+          <head>Chapter 4 Latin</head>
 <!--Page 27, chapter 4--> 
             <ab>Et respondens angelus dixit ei
             <lb/>ego sum Gabriel qui adsto
@@ -208,7 +232,7 @@
             <lb/>haec tibi euuangelizare</ab>
         </div>
         <div type="textpart" n="5" xml:id="latinpart5">
-          <head>Chapter 5</head>
+          <head>Chapter 5 Latin</head>
 <!--Page 27, chapter 5--> 
             <ab>Et ecce eris tacens et non poteris
             <lb/>loqui usque in diem quo
@@ -228,7 +252,7 @@
             <lb/>quibus respexit</ab>
         </div>
         <div type="textpart" n="6" xml:id="latinpart6">
-          <head>Chapter 6</head>
+          <head>Chapter 6 Latin</head>
 <!--Page 28, chapter 6--> 
             <ab>In mense autem sexto missus est
             <lb/>angelus Gabriel a domino in civitatem
@@ -271,7 +295,7 @@
           <lb/>Exsurgens autem Maria in diebus illis
           <lb/>abiit in montana cum festinatione
           <lb/>in ciuitatem Iuda et intrauit in domum
-          <lb/>Zachariae <add place="above"> et salutauit Elisabeth </add> et factum est ut audiuit
+          <lb/>Zachariae <app><add place="above"> et salutauit Elisabeth </add></app> et factum est ut audiuit
           <lb/>salutationem Mariae Elisabeth
           <lb/>exultauit infans in utero eius
           <lb/>et repleta est spiritu sancto Elisabeth
@@ -312,7 +336,7 @@
           </ab>
         </div>
         <div type="textpart" n="7" xml:id="latinpart7">
-          <head>Chapter 7</head>
+          <head>Chapter 7 Latin</head>
 <!--Page 30, chapter 7-->   
           <ab>Elisabeth autem impletum est
           <lb/>tempus pariendi et peperit filium suum
@@ -376,7 +400,7 @@
          </ab>
         </div>
         <div type="textpart" n="8" xml:id="latinpart8">
-          <head>Chapter 8</head>
+          <head>Chapter 8 Latin</head>
 <!--Page 31, chapter 8--> 
         <ab>Liber generarionis Iesu Christi filii Dauid
         <lb/>filii Abraham Abraham genuit Isaac
@@ -426,7 +450,7 @@
         </ab>
         </div>
         <div type="textpart" n="9" xml:id="latinpart9">
-          <head>Chapter 9</head>
+          <head>Chapter 9 Latin</head>
 <!--Page 33, chapter 9--> 
         <ab>Abraham autem fuit filius Tharae
         <lb/>qui fuit Nachor qui fuit Seruch
@@ -441,165 +465,187 @@
         <lb/>qui fuit Adam qui fuit Dei</ab>
         </div>
       </div>
-<!--TRANSLATION SECTION--> 
+      <!--TRANSLATION SECTION-->
       <div type="translation">
-      <div type="textpart" n="1" xml:id="translationpart1">
-<!--Page 25, chapter 1 - English-->
-        <head>Chapter 1</head>        
-        <p>Insomuch as many people have tried to put in order the story of the things that have been fulfilled among us, 
-          just as those who had seen it from the start and were ministers of the word had transmitted it to us, it seemed good to me as well, 
-          having diligently followed all of these things from the beginning, to write to you, best Theophilus, in order that you may know the 
-          truth of their words concerning which you have been taught (Luke 1.1-4)</p>
+        <div type="textpart" n="1" xml:id="translationpart1">
+          <!--Page 25, chapter 1 - English-->
+          <head>Chapter 1 English</head>
+          <p>Insomuch as many people have tried to put in order the story of the things that have
+            been fulfilled among us, just as those who had seen it from the start and were ministers
+            of the word had transmitted it to us, it seemed good to me as well, having diligently
+            followed all of these things from the beginning, to write to you, best Theophilus, in
+            order that you may know the truth of their words concerning which you have been taught
+            (Luke 1.1-4)</p>
+        </div>
       </div>
+      <div type="translation">
+        <div type="textpart" n="2" xml:id="translationpart2">
+          <!--Page 25, chapter 2 - English-->
+          <head>Chapter 2 English</head>
+          <p>In beginning was the Word and the Word was with God and God was the Word. This was in
+            the beginning with God,through whom all deeds are done, and without whom there is
+            nothing done which is done. In him there was life, and the life was the light of men,
+            and this light shone in darkness, and the darkness did not understand (John 1.1-5)</p>
+        </div>
       </div>
-      <div type="translation"> 
-      <div type="textpart" n="2" xml:id="translationpart2">
-<!--Page 25, chapter 2 - English--> 
-        <head>Chapter 2</head>        
-        <p>In beginning was the Word and the Word was with God and God was the Word. This 
-          was in the beginning with God,through whom all deeds are done, and without whom 
-          there is nothing done which is done. In him there was life, and the life was the 
-          light of men, and this light shone in darkness, and the darkness did not understand 
-          (John 1.1-5)</p>
+      <div type="translation">
+        <div type="textpart" n="3" xml:id="translationpart3">
+          <!--Page 25, chapter 3 - English-->
+          <head>Chapter 3 English</head>
+          <p>There was, in the days of Herod, king of Judea, a certain priest by the name of
+            Zacharias from the village of Abijah <pb/>
+            <!--Page 26, chapter 3 continued - English--> and his wife was from the daughters of
+            Aaron and her name was Elisabeth. Both of them, however, were just before God, walking
+            in all of the commandments and formalities of the Lord without argument. And they did
+            not have a son, because Elisabeth was barren and both were advanced in their days. It
+            came to pass, however, that when he was serving the priesthood in the order of his turn
+            before God, according to the custom of the priesthood, it fell to him by lot to offer
+            incense. After he had entered into the temple of the Lord and the whole multitude of the
+            people was praying outside at the hour of incense, an angel of the Lord appeared to him,
+            standing to the right of the altar of incense. And seeing this, Zacharias was disturbed
+            and fear rushed over him. But the angel said to him, "Do not be afraid, Zacharias,
+            because your prayer has been heard and your wife, Elizabeth, will bear a son for you and
+            you will name him John and you will have happiness and joy and many will rejoice at his
+            birth. For he will be great before the Lord and he will drink neither wine nor strong
+            drink and he will be filled with the Holy Spirit even <pb/>
+            <!--Page 27, chapter 3 continued - English--> from his mother's womb and he will convert
+            many of the sons of Israel to the lord, their God, and he will go forth before him in
+            the spirit and power of Elijah, in order to turn the hearts of their fathers toward
+            their sons and the unbelieving to the wisdom of the just to prepare the perfect people
+            for the Lord." And Zacharias said to the angel, "How will I know this? For I am an old
+            man, and my wife is getting on in her days." (Luke 1.5-18) </p>
+        </div>
       </div>
+      <div type="translation">
+        <div type="textpart" n="4" xml:id="translationpart4">
+          <head>Chapter 4 English</head>
+          <p>And responding the angel said to him, "I am Gabriel, who stands before God, and I was
+            sent to you to preach these things to you (Luke 1.19) </p>
+        </div>
       </div>
-      <div type="translation"> 
-      <div type="textpart" n="3" xml:id="translationpart3">
-<!--Page 25, chapter 3 - English-->
-        <head>Chapter 3</head>
-        <p>There was, in the days of Herod, king of Judea, a certain priest by the name 
-          of Zacharias from the village of Abijah 
+      <div type="translation">
+        <div type="textpart" n="5" xml:id="translationpart5">
+          <head>Chapter 5 English</head>
+          <p>And behold you will be silent and you will not be able speak until the day on which
+            these things happen because you did not believe my words which will be fulfilled in
+            their time." And the people were waiting for Zacharias and they marveled because he was
+            tarrying in the temple. And when he came out, he was unable to speak to them and they
+            knew that he had seen a vision in the temple. And he nodded to them and he remained
+            mute. And it happened that when the days of his duty were fulfilled, he went to his
+            house. And after these days his wife Elizabeth conceived and hid herself for five
+            months, saying, Because the Lord made it thus on the days when he looked upon me <pb/>to
+            take away my dishonor among men." (Luke 1:20-25) </p>
+        </div>
+      </div>
+      <div type="translation">
+        <div type="textpart" n="6" xml:id="translationpart6">
+          <head>Chapter 6 English</head>
+          <p>And in the sixth month the angel Gabriel was sent by the Lord to a city in Galilee
+            called Nazareth, to a young woman betrothed to a man whose name was Joseph from the
+            house of David and the name of the young woman was Mary. And having entered, the angel
+            said to her, "Hail, full of grace! The Lord be with you! Blessed are you among women!"
+            When she saw him, she was disturbed by his words and pondered the meaning of this
+            greeting. And the angel said to her, "Do not fear, Mary, for you have found favor with
+            God. Behold, you will conceive in your womb and you will bear a son and you will call
+            his name Jesus. He will be great and he will be called the son of the most high and the
+            Lord will give to him the seat of his father David and he will reign in the house of
+            Jacob forever and his kingdom will have no end." And Mary said to the angel, "How can
+            this be, when I have not known a man?" And responding, the angel said to her, "The Holy
+            Spirit will come upon you and the power of the most high will overshadow you. And
+            therefore the holy one who will be born will be called the son of God. And behold,
+            Elizabeth, your relative, has herself conceived a son in her old age
+            <!--NOTE - English--><pb/> and this is the sixth month for her who was called barren
+            because no word will be impossible with God. And Mary said, "Behold! The handmaid of the
+            Lord! Let it be to me according your word." And the angel departed from her. And rising
+            up, Mary went to the hill country with haste in those days to the city of Judah and
+            entered into the house of Zachariah [and greeted Elizabeth]. And it happened that when
+            Elizabeth heard Mary's greeting, the child in her womb rejoiced and Elizabeth was filled
+            with the Holy Spirit and she exclaimed with a loud voice, and said, "Blessed are you
+            among women and blessed is the fruit of your womb! And how did this happen to me that
+            the mother of my Lord should come to me? For behold that when the sound of your greeting
+            came to my ears, the child in my womb leapt with joy. And blessed is she who believed
+            that those things which were said to you by the Lord would be fulfilled." And Mary said,
+            "My soul glorifies the Lord and my spirit has exulted in God my salvation, for he has
+            seen the humility of his handmaiden. For behold, because of this all generations will
+            call me blessed, because he who is powerful did great things for me <!--NOTE - English-->
+            <pb/> and his name is holy and his mercy is there from generation to generation for
+            those who fear him. He showed strength in his arm. He diminished the proud in the
+            disposition of their hearts. He cast down the powerful from their thrones and lifted up
+            the humble. He filled the hungry with good things sent the rich away empty. He received
+            Israel as his son to be mindful of his mercy, just as he said to our fathers, Abraham
+            and his descendants, long ago." And Mary remained with her for about three months and
+            then returned to her home. (Luke 1:26-56)</p>
+        </div>
+      </div>
+      <div type="translation">
+        <div type="textpart" n="7" xml:id="translationpart7">
+          <head>Chapter 7 English</head>
+          <p>And the time came for Elisabeth to deliver and she gave birth to her son. And the
+            neighbors and relatives heard that the Lord made great his mercy with her and they
+            congratulated her. And it happened on the eighth day, they came to circumcise the boy
+            and they called him by his father's name, Zachariah. And responding, his mother said,
+            "Not so, for he will be called John." And they said to her, "There is no one in your
+            family who is called that." And they gave a sign to his father asking what he wanted the
+            boy to be called and asking for a writign table he wrote, saying, "His name is John."
+            And they all marveled. And immediately his mouth and his tongue were opened <pb/>​and he
+            was speaking, blessing God. And there was fear among all of his neighbors and throughout
+            the entire hill country of Judea al of these words were spread and and who had heard
+            them placed him in their heard, saying "What do you think this boy will be?" For the
+            hand of the Lord is with him. And his father Zachariah was filled with the Holy Spirit
+            and he prophesied, saying, "Blessed is the Lord God of Israel, for he has visited and
+            redeemed his people and he has raised up a horn of salvation for us in the house of
+            David, his son, just as he said through the mouth of his holy prophets, who lived long
+            ago, in order to grant us salvation from our enemies and from the power of all those who
+            hate us, and grant mercy with our fathers and to be mindful of his holy covenant, the
+            oath that he swore to our father Abraham, that he will grant to us so that we may serve
+            him without fear freed from the power of our enemies in holiness and justice before him
+            for all our days. And you, child, will be called the prophet of the most high. For you
+            will go before the presence of the Lord to prepare his way in order to bestow knowledge
+            of the salvation of his people for the remission of their sins
+            <!--NOTE - English--><pb/> ​through the substance of the mercy of our God in which he
+            visited us rising on high to illuminate those who sit in darkness and in the shadow of
+            death in order to direct our steps toward the way of peace.” And the boy grew and was
+            comforted by the spirit and was in the desert until the day when he was revealed to
+            Israel. (Luke 1:57-80)</p>
+        </div>
+      </div>
+      <div type="translation">
+        <div type="textpart" n="8" xml:id="translationpart8">
+          <head>Chapter 8 English</head>
+          <p>The book of the geneaology of Jesus Christ, son of David, son of Abraham. Abraham
+            fathered Isaac, and then Isaac fathered Jacob, and then Jacob fathered Judah and his
+            brothers, and then Judah fathered Perez and Zerah by Thamar, and then Perez fathered
+            Hezron, and then Hezron fathered Amminadab, and then Amminadab fathered Nahshon, and
+            then Nahshon fathered Salmon, and then Salmon fathered Boaz by Rachel, and then Boaz
+            fathered Obed by Ruth, and then Obed fathered Jesse, and then Jesse fathered King David,
+            and then King David fathered Solomon, and then Solomon fathered Rohoboam, and then
+            Rohoboam fathered Abijah, and then Abijah fathered Asa, and then Asa fathered
+            Jehoshaphat, and then Jehoshaphat fathered Joram, and then Joram fathered Uzziah, and
+            then Uzziah fathered Jotham, and then Jotham fathered Ahaz<pb/> then Ahaz fathered
+            Hezechiah and then Hezechiah fathered Manasseh and then Manasseh fathered Amos and then
+            Ammos fathered Josiah and then Josiah fathered Jechoniah and his brothers at the time of
+            the exile to Babylon and after the exile to Babylon, Jechoniah fathered Shealtiel and
+            Shealtiel fathered Zerubbabel and Zerubbabel fathered Abiud and Abiud fathered Eliakim
+            and Eliakim fathered Azor and Azor fathered Zadok and Zadok fathered Achim and Achim
+            fathered Eliud and Eliud fathered Eleazar and Eleazar fathered Matthan and Matthan
+            fathered Jacob and Jacob fathered Joseph, the husband of Mary, from whom Jesus who is
+            called Christ was born. (Matt. 1:1-16) </p>
+          <!--NOTE - English-->
           <pb/>
-<!--Page 26, chapter 3 continued - English-->          
-          and his wife was from the daughters of Aaron 
-          and her name was Elisabeth. Both of them, however, were just before God, walking in 
-          all of the commandments and formalities of the Lord without argument. And they did not
-          have a son, because Elisabeth was barren and both were advanced in their days. It came 
-          to pass, however, that when he was serving the priesthood in the order of his turn before 
-          God, according to the custom of the priesthood, it fell to him by lot to offer incense.  
-          After he had entered into the temple of the Lord and the whole multitude of the people 
-          was praying outside at the hour of incense, an angel of the Lord appeared to him, standing
-          to the right of the altar of incense.  And seeing this, Zacharias was disturbed and fear 
-          rushed over him.  But the angel said to him, "Do not be afraid, Zacharias, because your 
-          prayer has been heard and your wife, Elizabeth, will bear a son for you and you will name 
-          him John and you will have happiness and joy and many will rejoice at his birth.  For he 
-          will be great before the Lord and he will drink neither wine nor strong drink and he will 
-          be filled with the Holy Spirit even 
-          <pb/> 
-<!--Page 27, chapter 3 continued - English--> 
-          from his mother's womb and he will convert many of the sons of Israel to the lord, their God, 
-          and he will go forth before him in the spirit and power of Elijah, in order to turn the hearts 
-          of their fathers toward their sons and the unbelieving to the wisdom of the just to prepare 
-          the perfect people for the Lord." And Zacharias said to the angel, "How will I know this?  
-          For I am an old man, and my wife is getting on in her days." (Luke 1.5-18)
-        </p>
+        </div>
       </div>
-      </div>
-      <div type="translation"> 
-      <div type="textpart" n="4" xml:id="translationpart4">
-        <head>Chapter 4</head>
-        <p>And responding the angel said to him, "I am Gabriel, who stands before God, and I was sent 
-          to you to preach these things to you (Luke 1.19) 
-        </p>
-      </div>
-      </div>  
-      <div type="translation"> 
-      <div type="textpart" n="5" xml:id="translationpart5">
-        <head>Chapter 5</head>
-        <p>And behold you will be silent and you will not be able speak until the day on which these things 
-          happen because you did not believe my words which will be fulfilled in their time."  And the people 
-          were waiting for Zacharias and they marveled because he was tarrying in the temple.  And when he came 
-          out, he was unable to speak to them and they knew that he had seen a vision in the temple.  And he 
-          nodded to them and he remained mute. And it happened that when the days of his duty were fulfilled, 
-          he went to his house.  And after these days his wife Elizabeth conceived and hid herself for five 
-          months, saying, Because the Lord made it thus on the days when he looked upon me <pb/>to take away 
-          my dishonor among men." (Luke 1:20-25) </p>
-      </div>
-      </div>
-      <div type="translation"> 
-      <div type="textpart" n="6" xml:id="translationpart6">
-        <head>Chapter 6</head>
-        <p>And in the sixth month the angel Gabriel was sent by the Lord to a city in Galilee called Nazareth, 
-          to a young woman betrothed to a man whose name was Joseph from the house of David and the name of the 
-          young woman was Mary.  And having entered, the angel said to her, "Hail, full of grace! The Lord be with you! 
-          Blessed are you among women!" When she saw him, she was disturbed by his words and pondered the meaning of 
-          this greeting.  And the angel said to her, "Do not fear, Mary, for you have found favor with God. Behold, 
-          you will conceive in your womb and you will bear a son and you will call his name Jesus.  He will be great 
-          and he will be called the son of the most high and the Lord will give to him the seat of his father David 
-          and he will reign in the house of Jacob forever and his kingdom will have no end." And Mary said to the angel, 
-          "How can this be, when I have not known a man?" And responding, the angel said to her, "The Holy Spirit will come 
-          upon you and the power of the most high will overshadow you.  And therefore the holy one who will be born will be 
-          called the son of God. And behold, Elizabeth, your relative, has herself conceived a son in her old age 
-<!--NOTE - English--><pb/>
-          and this is the sixth month for her who was called barren because no word will be impossible with God. And Mary said, 
-          "Behold! The handmaid of the Lord! Let it be to me according your word." And the angel departed from her. And rising up, 
-          Mary went to the hill country with haste in those days to the city of Judah and entered into the house of Zachariah 
-          [and greeted Elizabeth].  And it happened that when Elizabeth heard Mary's greeting, the child in her womb rejoiced 
-          and Elizabeth was filled with the Holy Spirit and she exclaimed with a loud voice, and said, "Blessed are you among 
-          women and blessed is the fruit of your womb!  And how did this happen to me that the mother of my Lord should come 
-          to me? For behold that when the sound of your greeting came to my ears, the child in my womb leapt with joy. And blessed 
-          is she who believed that those things which were said to you by the Lord would be fulfilled." And Mary said, "My soul 
-          glorifies the Lord and my spirit has exulted in God my salvation, for he has seen the humility of his handmaiden.  
-          For behold, because of this all generations will call me blessed, because he who is powerful did great things for me 
-<!--NOTE - English--> <pb/> 
-          and his name is holy and his mercy is there from generation to generation for those who fear him.  He showed strength 
-          in his arm.  He diminished the proud in the disposition of their hearts.  He cast down the powerful from their thrones 
-          and lifted up the humble.  He filled the hungry with good things sent the rich away empty.  He received Israel as his 
-          son to be mindful of his mercy, just as he said to our fathers, Abraham and his descendants, long ago."  And Mary remained 
-          with her for about three months and then returned to her home. (Luke 1:26-56)</p>
-      </div>
-      </div>
-      <div type="translation"> 
-      <div type="textpart" n="7" xml:id="translationpart7">
-        <head>Chapter 7</head>
-        <p>And the time came for Elisabeth to deliver and she gave birth to her son.  And the neighbors and  relatives heard that 
-          the Lord made great his mercy with her and they congratulated her. And it happened on the eighth day, they came to circumcise 
-          the boy and they called him by his father's name, Zachariah. And responding, his mother said, "Not so, for he will be called 
-          John." And they said to her, "There is no one in your family who is called that." And they gave a sign to his father asking 
-          what he wanted the boy to be called and asking for a writign table he wrote, saying, "His name is John."  And they all marveled.  
-          And immediately his mouth and his tongue were opened <pb/>​and he was speaking, blessing God.  And there was fear among all of 
-          his neighbors and throughout the entire hill country of Judea al of these words were spread and and who had heard them placed 
-          him in their heard, saying "What do you think this boy will be?"  For the hand of the Lord is with him.  And his father 
-          Zachariah was filled with the Holy Spirit and he prophesied, saying, "Blessed is the Lord God of Israel, for he has visited 
-          and redeemed his people and he has raised up a horn of salvation for us in the house of David, his son, just as he said through 
-          the mouth of his holy prophets, who lived long ago, in order to grant us salvation from our enemies and from the power of all 
-          those who hate us, and grant mercy with our fathers and to be mindful of his holy covenant, the oath that he swore to our father 
-          Abraham, that he will grant to us so that we may serve him without fear freed from the power of our enemies in holiness and justice 
-          before him for all our days.  And you, child, will be called the prophet of the most high.  For you will go before the presence 
-          of the Lord to prepare his way in order to bestow knowledge of the salvation of his people for the remission of their sins 
-<!--NOTE - English--><pb/> 
-          ​through the substance of the mercy of our God in which he visited us rising on high to illuminate those who sit in darkness 
-          and in the shadow of death in order to direct our steps toward the way of peace.”  And the boy grew and was comforted by the 
-          spirit and was in the desert until the day when he was revealed to Israel. (Luke 1:57-80)</p>
-      </div>
-      </div>
-      <div type="translation"> 
-      <div type="textpart" n="8" xml:id="translationpart8">
-        <head>Chapter 8</head>
-        <p>The book of the geneaology of Jesus Christ, son of David, son of Abraham.  Abraham fathered Isaac, and then Isaac fathered Jacob, 
-          and then Jacob fathered Judah and his brothers, and then Judah fathered Perez and Zerah by Thamar, and then Perez fathered Hezron, 
-          and then Hezron fathered Amminadab, and then Amminadab fathered Nahshon, and then Nahshon fathered Salmon, and then Salmon fathered 
-          Boaz by Rachel, and then Boaz fathered Obed by Ruth, and then Obed fathered Jesse, and then Jesse fathered King David, and then King 
-          David fathered Solomon, and then Solomon fathered Rohoboam, and then Rohoboam fathered Abijah, and then Abijah fathered Asa, and then 
-          Asa fathered Jehoshaphat, and then Jehoshaphat fathered Joram, and then Joram fathered Uzziah, and then Uzziah fathered Jotham, and 
-          then Jotham fathered Ahaz<pb/> then Ahaz fathered Hezechiah and then Hezechiah fathered Manasseh and then Manasseh fathered Amos and 
-          then Ammos fathered Josiah and then Josiah fathered Jechoniah and his brothers at the time of the exile to Babylon and after the exile 
-          to  Babylon, Jechoniah fathered Shealtiel and Shealtiel fathered Zerubbabel and Zerubbabel fathered Abiud and Abiud fathered Eliakim 
-          and Eliakim fathered Azor and Azor fathered Zadok and Zadok fathered Achim and Achim fathered Eliud and Eliud fathered Eleazar and 
-          Eleazar fathered Matthan and Matthan fathered Jacob and Jacob fathered Joseph, the husband of Mary, from whom Jesus who is called 
-          Christ was born. (Matt. 1:1-16) </p> 
-<!--NOTE - English--><pb/>
-      </div>
-      </div>
-      <div type="translation"> 
-      <div type="textpart" n="9" xml:id="translationpart9">
-        <head>Chapter 9</head>
-        <p>And Abraham was the son of Thare, who was the son of Nahor, who was the son of Saruh, who was the son of Reu, who was the son of 
-          Peleg, who was the son of Eber, who was the son of Shelah, who was the son of Cainan, who was the son of Arphaxad, who was the son 
-          of Shem, who was the son of Noah, who was the son of Lamech, who was the son of Mathuselah, who was the son of Enoch, who was the 
-          son of Jared, who was the son of Mahalaleel, who was the son of Cainan, who was the son of Enos, who was the son of Seth, who was 
-          of son of Adam, who was the son of God. (Luke 1:34-38)</p> <pb/>
-      </div>
+      <div type="translation">
+        <div type="textpart" n="9" xml:id="translationpart9">
+          <head>Chapter 9 English</head>
+          <p>And Abraham was the son of Thare, who was the son of Nahor, who was the son of Saruh,
+            who was the son of Reu, who was the son of Peleg, who was the son of Eber, who was the
+            son of Shelah, who was the son of Cainan, who was the son of Arphaxad, who was the son
+            of Shem, who was the son of Noah, who was the son of Lamech, who was the son of
+            Mathuselah, who was the son of Enoch, who was the son of Jared, who was the son of
+            Mahalaleel, who was the son of Cainan, who was the son of Enos, who was the son of Seth,
+            who was of son of Adam, who was the son of God. (Luke 1:34-38)</p>
+          <pb/>
+        </div>
       </div>
     </body>
     <back>
