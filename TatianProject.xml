@@ -135,7 +135,7 @@
             <lb/>factum est nihil
             <lb/>quod factum est</ab>
         </div>
-        <div type="textpart" n="2" xml:id part1 english>        
+        <div type="textpart" n="2" xml:id="part1english">        
             <ab><lb/>In ipso vita erat
             <lb/>et vita erat lux hominum
             <lb/>et lux in tenebris
@@ -154,7 +154,9 @@
       <div type="translation"> <div type="textpart" n="1" xml:id="translationpart1">
         <p>[1] Insomuch as many people have tried to put in order the story of the things that have been fulfilled among us, 
           just as those who had seen it from the start and were ministers of the word had transmitted it to us, it seemed good to me as well, having diligently followed all of these things from the beginning, to write to you, best Theophilus, in order that you may know the truth of their words concerning which you have been taught (Luke 1.1-4)</p>
-      </div>    </body>
+      </div>
+      </div>
+    </body>
     <back>
       <!--The content of the back matter will be determined in consultation between
       the editor and the staff of the DLL. Because LDLT editions are encoded, the
