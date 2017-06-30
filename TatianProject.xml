@@ -7,10 +7,10 @@
       <titleStmt>
         <title>Gospel Harmony (Diatesseron)</title>
         <author>Tatian</author>
-        <editor>Scott G. Bruce</editor>
-        <editor>Amanda M. Nerbovig</editor>
-        <editor>Sean Babbs</editor>
-        <editor>Sarah Luginbull</editor>
+        <editor>Scott G. Bruce,</editor>
+        <editor>Amanda M. Nerbovig,</editor>
+        <editor>Sean Babbs,</editor>
+        <editor>Sarah Luginbill,</editor>
         <editor>Manon C. Williams</editor>
       </titleStmt>
       <editionStmt>
@@ -133,7 +133,7 @@
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div type="textpart" n="1" xml:id="latinpart1">
-          <head>Chapter 1 Latin</head>
+          <head>Chapter 1 (Latin)</head>
           <!--Text goes here, according to the conventions laid out elsewhere in these guidelines.-->
 <!--Page 25, chapter 1-->
             <ab>Quoniam quidem multi
@@ -153,7 +153,7 @@
             ​<lb/>eruditus es ueritatem</ab>
           </div>
        <div type="textpart" n="2" xml:id="latinpart2">
-          <head>Chapter 2 Latin</head>
+          <head>Chapter 2 (Latin)</head>
 <!--Page 25, chapter 2-->
            <ab>In principio erat verbum
             <lb/>et verbum erat apud deum
@@ -165,7 +165,7 @@
             <lb/>quod factum est</ab>
        </div>
         <div type="textpart" n="3" xml:id="latinpart3">
-          <head>Chapter 3 Latin</head>
+          <head>Chapter 3 (Latin)</head>
  <!--Page 25, chapter 3-->
             <ab>In ipso vita erat
             <lb/>et vita erat lux hominum
@@ -224,7 +224,7 @@
             <lb/>processit in diebus suis</ab>
         </div>
         <div type="textpart" n="4" xml:id="latinpart4">
-          <head>Chapter 4 Latin</head>
+          <head>Chapter 4 (Latin)</head>
 <!--Page 27, chapter 4--> 
             <ab>Et respondens angelus dixit ei
             <lb/>ego sum Gabriel qui adsto
@@ -249,13 +249,16 @@
             <lb/>concepit Elisabeth uxor eius
             <lb/>et occultabat se mensibus v dicens
             <lb/>quia sic mihi fecit dominus in diebus
-            <lb/>quibus respexit</ab>
+            <lb/>quibus respexit
+<!--Page 28, chapter 5--><pb/>
+            <lb/>auferre ob probrium meum
+            <lb/>inter homines</ab> 
         </div>
         <div type="textpart" n="6" xml:id="latinpart6">
-          <head>Chapter 6 Latin</head>
+          <head>Chapter 6 (Latin)</head>
 <!--Page 28, chapter 6--> 
-            <ab>In mense autem sexto missus est
-            <lb/>angelus Gabriel a domino in civitatem
+          <ab>In mense autem sexto missus est
+          <lb/>angelus Gabriel a domino in civitatem
           <lb/>Galileae cui nomen Nazareth
           <lb/>ad virginem disponsatam viro
           <lb/>cui nomen erat Ioseph de domo
@@ -284,7 +287,7 @@
           <lb/>vocabitur filius dei
           <lb/>et ecce Elisabeth cognata tua
           <lb/>et ipsa concepit filium in senectute sua 
-        <pb/>
+      <pb/><!--Page 29, chapter 6-->
           <lb/>et hic mensis est sextus illi
           <lb/>quae uocatur sterilis
           <lb/>quia non erit impossibile apud deum
@@ -317,7 +320,7 @@
           <lb/>ancillae suae ecce enim ex hoc
           <lb/>beatam me dicent omnes generationes
           <lb/>quia fecit mihi magna
-       <pb/>
+       <pb/><!--Page 30, chapter 6-->
           <lb/>qui potens est et sanctum nomen eius 
           <lb/>et misericordia eius in progeniens et progeniens
           <lb/>timentibus eum fecit potentiam
@@ -336,7 +339,7 @@
           </ab>
         </div>
         <div type="textpart" n="7" xml:id="latinpart7">
-          <head>Chapter 7 Latin</head>
+          <head>Chapter 7 (Latin)</head>
 <!--Page 30, chapter 7-->   
           <ab>Elisabeth autem impletum est
           <lb/>tempus pariendi et peperit filium suum
@@ -355,7 +358,7 @@
           <lb/>et postulans pugillarem scriptsit dicens
           <lb/>Iohannes est nomen eius et mirati sunt 
           <lb/>uniuersi apertum est autem ilico os eius              
-       <pb/> 
+       <pb/> <!--Page 31, chapter 7-->
           <lb/>et lingua eius et loquebatur benedicens deum
           <lb/>et factus est timor super omnes uicinos eorum
           <lb/>et super omnia montana Iudeae
@@ -388,7 +391,7 @@
           <lb/>ante faciem domini parare
           <lb/>uias eius ad dandam scientiam
           <lb/> <add place="left">salutis</add> plebi eius in remissionem peccatorum eorum
-        <pb/>
+        <pb/> <!--Page 32, chapter 7-->
           <lb/>per uiscera misericordiae Dei nostri
           <lb/>in quibus uisitauit nos oriens ex alto
           <lb/>inluminare his qui in tenebris
@@ -397,11 +400,12 @@
           <lb/>puer autem crescebat et confortabatur
           <lb/>spiritu et erat in deserto usque
           <lb/>in diem ostensionis suae ad Israel            
-         </ab>
+         </ab> 
+        <pb/>
         </div>
         <div type="textpart" n="8" xml:id="latinpart8">
-          <head>Chapter 8 Latin</head>
-<!--Page 31, chapter 8--> 
+          <head>Chapter 8 (Latin)</head>
+<!--Page 32, chapter 8--> 
         <ab>Liber generarionis Iesu Christi filii Dauid
         <lb/>filii Abraham Abraham genuit Isaac
         <lb/>Isaac autem genuit Iacob
@@ -425,7 +429,7 @@
         <lb/>Ioram autem genuit Oziam
         <lb/>Ozias autem genuit Ioatham
         <lb/>Ioatham autem genuit Achaz
-          <pb/>
+          <pb/><!--Page 33, chapter 8continued--> 
         ​<lb/>Achaz autem genuit Ezechiam
         <lb/>Ezechias autem genuit Manassen
         <lb/>Manasses autem genuit Ammon
@@ -450,7 +454,7 @@
         </ab>
         </div>
         <div type="textpart" n="9" xml:id="latinpart9">
-          <head>Chapter 9 Latin</head>
+          <head>Chapter 9 (Latin)</head>
 <!--Page 33, chapter 9--> 
         <ab>Abraham autem fuit filius Tharae
         <lb/>qui fuit Nachor qui fuit Seruch
@@ -462,14 +466,15 @@
         <lb/>qui fuit Enoch qui fuit Iared
         <lb/>qui fuit Malelehel qui fuit Cainan
         <lb/>qui fuit Enos qui fuit Seth
-        <lb/>qui fuit Adam qui fuit Dei</ab>
+        <lb/>qui fuit Adam qui fuit Dei</ab> 
+      <pb/>
         </div>
       </div>
       <!--TRANSLATION SECTION-->
       <div type="translation">
         <div type="textpart" n="1" xml:id="translationpart1">
           <!--Page 25, chapter 1 - English-->
-          <head>Chapter 1 English</head>
+          <head>Chapter 1 (English)</head>
           <p>Insomuch as many people have tried to put in order the story of the things that have
             been fulfilled among us, just as those who had seen it from the start and were ministers
             of the word had transmitted it to us, it seemed good to me as well, having diligently
@@ -481,7 +486,7 @@
       <div type="translation">
         <div type="textpart" n="2" xml:id="translationpart2">
           <!--Page 25, chapter 2 - English-->
-          <head>Chapter 2 English</head>
+          <head>Chapter 2 (English)</head>
           <p>In beginning was the Word and the Word was with God and God was the Word. This was in
             the beginning with God,through whom all deeds are done, and without whom there is
             nothing done which is done. In him there was life, and the life was the light of men,
@@ -491,7 +496,7 @@
       <div type="translation">
         <div type="textpart" n="3" xml:id="translationpart3">
           <!--Page 25, chapter 3 - English-->
-          <head>Chapter 3 English</head>
+          <head>Chapter 3 (English)</head>
           <p>There was, in the days of Herod, king of Judea, a certain priest by the name of
             Zacharias from the village of Abijah <pb/>
             <!--Page 26, chapter 3 continued - English--> and his wife was from the daughters of
@@ -507,8 +512,9 @@
             because your prayer has been heard and your wife, Elizabeth, will bear a son for you and
             you will name him John and you will have happiness and joy and many will rejoice at his
             birth. For he will be great before the Lord and he will drink neither wine nor strong
-            drink and he will be filled with the Holy Spirit even <pb/>
-            <!--Page 27, chapter 3 continued - English--> from his mother's womb and he will convert
+            drink and he will be filled with the Holy Spirit even 
+            <pb/> <!--Page 27, chapter 3 continued - English--> 
+            from his mother's womb and he will convert
             many of the sons of Israel to the lord, their God, and he will go forth before him in
             the spirit and power of Elijah, in order to turn the hearts of their fathers toward
             their sons and the unbelieving to the wisdom of the just to prepare the perfect people
@@ -518,14 +524,14 @@
       </div>
       <div type="translation">
         <div type="textpart" n="4" xml:id="translationpart4">
-          <head>Chapter 4 English</head>
+          <head>Chapter 4 (English)</head>
           <p>And responding the angel said to him, "I am Gabriel, who stands before God, and I was
             sent to you to preach these things to you (Luke 1.19) </p>
         </div>
       </div>
       <div type="translation">
         <div type="textpart" n="5" xml:id="translationpart5">
-          <head>Chapter 5 English</head>
+          <head>Chapter 5 (English)</head>
           <p>And behold you will be silent and you will not be able speak until the day on which
             these things happen because you did not believe my words which will be fulfilled in
             their time." And the people were waiting for Zacharias and they marveled because he was
@@ -533,13 +539,14 @@
             knew that he had seen a vision in the temple. And he nodded to them and he remained
             mute. And it happened that when the days of his duty were fulfilled, he went to his
             house. And after these days his wife Elizabeth conceived and hid herself for five
-            months, saying, Because the Lord made it thus on the days when he looked upon me <pb/>to
+            months, saying, Because the Lord made it thus on the days when he looked upon me 
+            <pb/><!--Page 27, chapter 5 continued - English-->  to
             take away my dishonor among men." (Luke 1:20-25) </p>
         </div>
       </div>
       <div type="translation">
         <div type="textpart" n="6" xml:id="translationpart6">
-          <head>Chapter 6 English</head>
+          <head>Chapter 6 (English)</head>
           <p>And in the sixth month the angel Gabriel was sent by the Lord to a city in Galilee
             called Nazareth, to a young woman betrothed to a man whose name was Joseph from the
             house of David and the name of the young woman was Mary. And having entered, the angel
@@ -579,7 +586,7 @@
       </div>
       <div type="translation">
         <div type="textpart" n="7" xml:id="translationpart7">
-          <head>Chapter 7 English</head>
+          <head>Chapter 7 (English)</head>
           <p>And the time came for Elisabeth to deliver and she gave birth to her son. And the
             neighbors and relatives heard that the Lord made great his mercy with her and they
             congratulated her. And it happened on the eighth day, they came to circumcise the boy
@@ -611,7 +618,7 @@
       </div>
       <div type="translation">
         <div type="textpart" n="8" xml:id="translationpart8">
-          <head>Chapter 8 English</head>
+          <head>Chapter 8 (English)</head>
           <p>The book of the geneaology of Jesus Christ, son of David, son of Abraham. Abraham
             fathered Isaac, and then Isaac fathered Jacob, and then Jacob fathered Judah and his
             brothers, and then Judah fathered Perez and Zerah by Thamar, and then Perez fathered
@@ -636,7 +643,7 @@
       </div>
       <div type="translation">
         <div type="textpart" n="9" xml:id="translationpart9">
-          <head>Chapter 9 English</head>
+          <head>Chapter 9 (English)</head>
           <p>And Abraham was the son of Thare, who was the son of Nahor, who was the son of Saruh,
             who was the son of Reu, who was the son of Peleg, who was the son of Eber, who was the
             son of Shelah, who was the son of Cainan, who was the son of Arphaxad, who was the son
