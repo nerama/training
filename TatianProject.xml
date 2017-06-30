@@ -109,8 +109,9 @@
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div type="textpart" n="1" xml:id="latinpart1">
-          <head>25</head>
+          <head>Part 1</head>
           <!--Text goes here, according to the conventions laid out elsewhere in these guidelines.-->
+<!--Page 25, chapter 1-->
             <ab>Quoniam quidem multi
             <lb/>conati sunt ordinare
             <lb/>narrationem quae in nobis
@@ -126,7 +127,10 @@
             <lb/>ut cognoscas eorum
             <lb/>uerborum de quibus
             ​<lb/>eruditus es ueritatem</ab>
-          
+          </div>
+       <div type="textpart" n="2" xml:id="latinpart2">
+          <head>Chapter 2</head>
+<!--Page 25, chapter 2-->
            <ab>In principio erat verbum
             <lb/>et verbum erat apud deum
             <lb/>et deus erat verbum
@@ -134,8 +138,11 @@
             <lb/>apud deum omnia per ipsum
             <lb/>facta sunt et sine ipso
             <lb/>factum est nihil
-            <lb/>quod factum est</ab>   
- 
+            <lb/>quod factum est</ab>
+       </div>
+        <div type="textpart" n="3" xml:id="latinpart3">
+          <head>Chapter 3</head>
+ <!--Page 25, chapter 3-->
             <ab>In ipso vita erat
             <lb/>et vita erat lux hominum
             <lb/>et lux in tenebris
@@ -145,30 +152,173 @@
             <lb/>Iudeae quidam sacerdos
             <lb/>nomine Zacharias
             <lb/>de vice Abia </ab>
-          </div>  
-        <div type="textpart" n="2" xml:id="latinpart2">
-          <head>26</head>
-          <!--Each new major section (e.g., book, volume) has a new <div>.-->
+<!--Page 26, chapter 3 continued-->  <pb/>
+            <ab>et uxor illi de filiabus Aaron
+            <lb/>et nomen eius Elisabeth
+            <lb/>erant autem iusti ambo ante deum
+            <lb/>incedentes in omnibus mandatis
+            <lb/>et iustificationibus domini sine quaerela
+            <lb/>et non erat illis filius eo quod
+            <lb/>esset Elisabeth sterilis
+            <lb/>et ambo processissent in diebus suis
+            <lb/>factum est autem cum
+            <lb/>sacerdotio fungeretur
+            <lb/>in ordine vicis suae ante deum
+            <lb/>secundum consuetudinem sacerdotii
+            <lb/>sorte exiit ut incensum poneret
+            <lb/>ingressus in templum domini
+            <lb/>et omnis multitudo erat populi
+            <lb/>orans foris hora incensi
+            <lb/>apparuit autem illi
+            <lb/>angelus domini stans a dextris
+            <lb/>altaris incensi
+            <lb/>et Zacharias turbatus est
+            <lb/>uidens et timor inruit super eum
+            <lb/>ait autem ad illum angelus
+            <lb/>ne timeas Zacharia
+            <lb/>quo exaudita est deprecatio tua
+            <lb/>et uxor tua Elysabeth
+            <lb/>pariet tibi filium
+            <lb/>et vocabis nomen eius Iohannem
+            <lb/>et erit tibi gaudium et exultatio
+            <lb/>et multi in nativitate eius gaudebunt
+            <lb/>erit enim magnus coram domino
+            <lb/>et uinum et siceram non bibit et spiritu sancto
+            <lb/>replebitur adhuc
+<!--Page 27, chapter 3 continued-->  <pb/>             
+            <lb/>ex utero matris suae
+            <lb/>et multos filiorum Israhel 
+            ​<lb/>convertit ad dominum deum ipsorum
+            <lb/>et ipse praecedet ante illum
+            <lb/>in spiritu et virtute Heliae
+            <lb/>ut convertat corda patrum in filios
+            <lb/>et incredibiles ad prudentiam iustorum
+            <lb/>parare domino plebem perfectam
+            <lb/>et dixit Zacharias ad angelum
+            <lb/>unde hoc sciam
+            <lb/>ego enim sum senex et uxor mea
+            <lb/>processit in diebus suis</ab>
         </div>
-        <div type="textpart" n="3" xml:id="latinpart3">
-          <head>27</head>
-          <!--Each new major section (e.g., book, volume) has a new <div>.-->
+        <div type="textpart" n="4" xml:id="latinpart4">
+          <head>Chapter 4</head>
+<!--Page 27, chapter 4--> 
+            <ab>Et respondens angelus dixit ei
+            <lb/>ego sum Gabriel qui adsto
+            <lb/>ante deum et missus sum ad te
+            <lb/>haec tibi euuangelizare</ab>
+        </div>
+        <div type="textpart" n="5" xml:id="latinpart5">
+          <head>Chapter 5</head>
+<!--Page 27, chapter 5--> 
+            <ab>Et ecce eris tacens et non poteris
+            <lb/>loqui usque in diem quo
+            <lb/>haec fiant pro eo quod
+            <lb/>non credidisti verbis meis
+            <lb/>quae implebuntur in tempore suo
+            <lb/>et erat plebs expectans Zachariam
+            <lb/>et mirabant quod tardaret ipse in templo
+            <lb/>egressus autem non poterat loqui ad illos
+            <lb/>et cognoverunt quod visionem vidisset in templo
+            <lb/>et ipse erat innuens illis et permansit mutus
+            <lb/>et factum est ut inpleti sunt dies offici[i] eius
+            <lb/>abiit in domum suam post hos autem dies
+            <lb/>concepit Elisabeth uxor eius
+            <lb/>et occultabat se mensibus v dicens
+            <lb/>quia sic mihi fecit dominus in diebus
+            <lb/>quibus respexit</ab>
+        </div>
+        <div type="textpart" n="6" xml:id="latinpart6">
+          <head>Chapter 6</head>
+<!--Page 28, chapter 6--> 
+            <ab></ab>
+        </div>
+        <div type="textpart" n="7" xml:id="latinpart7">
+          <head>Chapter 7</head>
+<!--Page 30, chapter 7--> 
+            <ab></ab>
+        </div>
+        <div type="textpart" n="8" xml:id="latinpart8">
+          <head>Chapter 8</head>
+<!--Page 31, chapter 8--> 
+            <ab></ab>
+        </div>
+        <div type="textpart" n="9" xml:id="latinpart9">
+          <head>Chapter 9</head>
+<!--Page 33, chapter 9--> 
+            <ab></ab>
         </div>
       </div>
       <div type="translation"> <div type="textpart" n="1" xml:id="translationpart1">
+<!--Page 25, chapter 1 - English-->        
         <p>Insomuch as many people have tried to put in order the story of the things that have been fulfilled among us, 
           just as those who had seen it from the start and were ministers of the word had transmitted it to us, it seemed good to me as well, 
           having diligently followed all of these things from the beginning, to write to you, best Theophilus, in order that you may know the 
           truth of their words concerning which you have been taught (Luke 1.1-4)</p>
-        <lb/>
+        <div/>
+      <div type="translation"> <div type="textpart" n="2" xml:id="translationpart2">
+<!--Page 25, chapter 2 - English-->         
         <p>In beginning was the Word and the Word was with God and God was the Word. This 
-          was in the beginning with God, 
-          through whom all deeds are done, and without whom there is nothing done which 
-          is done. In him there was life, and the life was the light of men, and this 
-          light shone in darkness, and the darkness did not understand (John 1.1-5)</p>
-        <lb/>
+          was in the beginning with God,through whom all deeds are done, and without whom 
+          there is nothing done which is done. In him there was life, and the life was the 
+          light of men, and this light shone in darkness, and the darkness did not understand 
+          (John 1.1-5)</p>
+      </div>
+      <div type="translation"> <div type="textpart" n="3" xml:id="translationpart3">
+<!--Page 25, chapter 3 - English-->         
         <p>There was, in the days of Herod, king of Judea, a certain priest by the name 
-          of Zacharias from the village of Abijah</p>
+          of Zacharias from the village of Abijah 
+          <pb/>
+<!--Page 26, chapter 3 continued - English-->          
+          and his wife was from the daughters of Aaron 
+          and her name was Elisabeth. Both of them, however, were just before God, walking in 
+          all of the commandments and formalities of the Lord without argument. And they did not
+          have a son, because Elisabeth was barren and both were advanced in their days. It came 
+          to pass, however, that when he was serving the priesthood in the order of his turn before 
+          God, according to the custom of the priesthood, it fell to him by lot to offer incense.  
+          After he had entered into the temple of the Lord and the whole multitude of the people 
+          was praying outside at the hour of incense, an angel of the Lord appeared to him, standing
+          to the right of the altar of incense.  And seeing this, Zacharias was disturbed and fear 
+          rushed over him.  But the angel said to him, "Do not be afraid, Zacharias, because your 
+          prayer has been heard and your wife, Elizabeth, will bear a son for you and you will name 
+          him John and you will have happiness and joy and many will rejoice at his birth.  For he 
+          will be great before the Lord and he will drink neither wine nor strong drink and he will 
+          be filled with the Holy Spirit even 
+          <pb/> 
+<!--Page 27, chapter 3 continued - English--> 
+          ex utero matris suae
+          et multos filiorum Israhel 
+          ​convertit ad dominum deum ipsorum
+          et ipse praecedet ante illum
+          in spiritu et virtute Heliae
+          ut convertat corda patrum in filios
+          et incredibiles ad prudentiam iustorum
+          parare domino plebem perfectam
+          et dixit Zacharias ad angelum
+          unde hoc sciam
+          ego enim sum senex et uxor mea
+          processit in diebus suis
+        </p>
+      <div type="translation"> <div type="textpart" n="4" xml:id="translationpart4">
+        <p>
+          
+        </p>
+      </div>
+      <div type="translation"> <div type="textpart" n="5" xml:id="translationpart5">
+        <p></p>
+      </div>    
+      <div type="translation"> <div type="textpart" n="6" xml:id="translationpart6">
+        <p></p>
+      </div>  
+      <div type="translation"> <div type="textpart" n="7" xml:id="translationpart7">
+        <p></p>
+      </div>
+      <div type="translation"> <div type="textpart" n="8" xml:id="translationpart8">
+        <p></p>
+      </div>
+      <div type="translation"> <div type="textpart" n="8" xml:id="translationpart9">
+        <p></p>
+      </div>
+
       </div>
       </div>
     </body>
