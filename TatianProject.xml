@@ -43,29 +43,48 @@
           scholars and students of the European Middle Ages a convenient and 
           accurate text of Tatian's Gospel Harmony (Diatesseron) in medieval 
           Latin with an English translation.</p>
-        <div type="section" xml:id="prefacesub1">
-        <head>Tatian and his Writings</head>
-        <p>Tatian was a Christian intellectual of Assyrian origin who lived in the second century CE.  
-          The son of pagan parents, he converted to Christianity in Rome, allegedly through the influence of Justin Martyr.  
-          Some years later (in 172 CE, according to Eusebius), Tatian fell out of favor with the Christian community at Rome 
-          and returned to Mesopotamia, where he set himself up as a teacher of Christian doctrine.  
-          Later traditions (recounted by Eusebius and Jerome) remembered him as the founder of the ascetic Christian 
-          group know as the Encratites, who abstained from marriage and meat.  In the fourth century the Encratites 
-          were conflated with the Manichaeans and condemned as heretics by imperial edict.</p>
-        <p>Tatian was the author of several texts.  His Oration to the Greeks was a popular work of early Christian apology 
-          written in Greek and aimed at pagan readers.  It argued that Christian scriptures offered a philosophy that was 
-          superior to Greek and Roman intellectual traditions.  Tatian also wrote two other treatises -- <hi rend="italic">On Animals </hi>and <hi rend="italic">On Perfection According to the Savior</hi> -- 
-          both of which are now lost.  By far his most enduring composition, however, was a harmony of the four canonical Gospels with some excerpts from 
-          the Acts of the Apostles known as the Diatesseron (from the Greek, meaning "out of four").  The purpose of this work was to present the life of 
-          Christ as a single, coherent story, while reconciling some of the troubling contradictions between the Gospel narratives 
-          (for example, the conflicting genealogical tables in Luke and Matthew).  Scholars believe that Tatian composed the Diatesseron either 
-          in Syriac or in Greek.  The text was popular in the eastern Christian church until the fifth century, when it was actively suppressed 
-          due to the growing association of Tatian with the Encratite heresy.</p>
-        </div>
         <div type="section" xml:id="preface-section-1">
           <!--This is a section within the preface. Editors should use
           sections (distinguished by <div>) to organize the content of the edition's preface.-->
+          <head>Tatian and his Writings</head>
+          <p>Tatian was a Christian intellectual of Assyrian origin who lived in the second century CE.  
+            The son of pagan parents, he converted to Christianity in Rome, allegedly through the influence of Justin Martyr.  
+            Some years later (in 172 CE, according to Eusebius), Tatian fell out of favor with the Christian community at Rome 
+            and returned to Mesopotamia, where he set himself up as a teacher of Christian doctrine.  
+            Later traditions (recounted by Eusebius and Jerome) remembered him as the founder of the ascetic Christian 
+            group know as the Encratites, who abstained from marriage and meat.  In the fourth century the Encratites 
+            were conflated with the Manichaeans and condemned as heretics by imperial edict.</p>
+          <p>Tatian was the author of several texts.  His <hi rend="italic">Oration to the Greeks</hi> was a popular work of early Christian apology 
+            written in Greek and aimed at pagan readers.  It argued that Christian scriptures offered a philosophy that was 
+            superior to Greek and Roman intellectual traditions.  Tatian also wrote two other treatises -- <hi rend="italic">On Animals </hi>and <hi rend="italic">On Perfection According to the Savior</hi> -- 
+            both of which are now lost.  By far his most enduring composition, however, was a harmony of the four canonical Gospels with some excerpts from 
+            the Acts of the Apostles known as the <hi rend="italic">Diatesseron</hi> (from the Greek, meaning "out of four").  The purpose of this work was to present the life of 
+            Christ as a single, coherent story, while reconciling some of the troubling contradictions between the Gospel narratives 
+            (for example, the conflicting genealogical tables in Luke and Matthew).  Scholars believe that Tatian composed the <hi rend="italic">Diatesseron</hi> either 
+            in Syriac or in Greek.  The text was popular in the eastern Christian church until the fifth century, when it was actively suppressed 
+            due to the growing association of Tatian with the Encratite heresy.</p>
+          <p>Tatian's <hi rend="italic">Diatesseron</hi> survives in full only in Latin and Arabic translations.  It circulated in Latin as early as the second century, 
+            representing one of the earliest traditions of the translation of the Gospels into Latin (the so-called vetus Latina) and predating 
+            Jerome's Vulgate translation by more than two centuries.  But the widespread adoption of Jerome's translation in the early Middle Ages 
+            compelled scribes to correct manuscripts of the Latin Diatesseron to conform to the conventions of the Vulgate.  As a result, almost all 
+            traces of the vetus Latina version of the <hi rend="italic">Diatesseron</hi> are lost.  Even so, Tatian's work was an important and widely read text in the Latin 
+            Middle Ages, surviving in dozens of manuscripts, sometimes alongside texts of the New Testament.  It was also an important tool for 
+            missionary activity, providing the source for the earliest Gospel harmonies composed in northern European vernacular languages, like 
+            the Old Saxon Heliand, from the ninth century.</p>
         </div>
+        <div type="section" xml:id="preface-section-2">
+          <head>Codex Sangallensis 56</head>
+          <p>Despite its importance to medieval Christians, the Latin tradition of the Diatesseron has received very little attention from scholars and 
+            is virtually unknown among general readers.  LATINTATIAN attempts to remedy this by providing a single-text edition and English translation of 
+            one of the earliest copies of the Diatesseron in Latin: an early ninth-century manuscript written at Fulda and now housed at the abbey of St. Gall 
+            (MS St. Gallen, Stiftsbibliothek, Codex Sangallensis 56  <ptr target="http://www.e-codices.unifr.ch/en/csg/0056"/>).  This manuscript presents Tatian's Diatesseron in Latin and Old High German side-by-side 
+            in parallel columns.  While the Old High German text is important to linguists because it represents one of the earliest and longest texts to survive 
+            in a German vernacular, our edition will comprise only the Latin portion of the manuscript.  Such an edition is long overdue.  The earliest publication 
+            of the Latin Diatesseron based on Codex Sangallensis 56 by Eduard Sievers (1892) is well over a century old and rife with errors.  The more recent 
+            publication of the same text by Achim Masser (1994) was prohibitively expensive when it was in print and is now out of print and not useful for teaching 
+            purposes.  Moreover, the only complete translation of Tatian's Gospel harmony into English appeared more than a century ago in the Ante-Nicene Fathers 
+            series (vol. 9, published in 1885).  Thus, LATINTATIAN provides for the first time a convenient Latin text of the Diatesseron based on an early manuscript 
+            witness alongside an accurate translation into modern English.</p>
       </div>
       <div type="section" xml:id="bibliography">
         <head>Bibliography</head>
