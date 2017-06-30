@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gospel Harmony (Diatesseron)</title>
+        <author>Tatian</author>
+        <editor>Scott G. Bruce</editor>
+        <editor>Amanda M. Nerbovig</editor>
+        <editor>Sean Babbs</editor>
+        <editor>Sarah Luginbull</editor>
+        <editor>Manon C. Williams</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>First Edition</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Publisher Name?</publisher>
+        <distributor>Digital Latin Library</distributor>
+        <date>2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Distributed under a Creative Commons Attribution 4.0 International
+            License.</licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">Library of Digital Latin Texts</title>
+        <biblScope unit="vol">1</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front xml:id="front">
+      <div type="section" xml:id="preface">
+        <head>Preface</head>
+        <p>​The purpose of the LATINTATIAN website is to make available for 
+          scholars and students of the European Middle Ages a convenient and 
+          accurate text of Tatian's Gospel Harmony (Diatesseron) in medieval 
+          Latin with an English translation.</p>
+        <div type="section" xml:id="prefacesub1">
+        <head>Tatian and his Writings</head>
+        <p>Tatian was a Christian intellectual of Assyrian origin who lived in the second century CE.  
+          The son of pagan parents, he converted to Christianity in Rome, allegedly through the influence of Justin Martyr.  
+          Some years later (in 172 CE, according to Eusebius), Tatian fell out of favor with the Christian community at Rome 
+          and returned to Mesopotamia, where he set himself up as a teacher of Christian doctrine.  
+          Later traditions (recounted by Eusebius and Jerome) remembered him as the founder of the ascetic Christian 
+          group know as the Encratites, who abstained from marriage and meat.  In the fourth century the Encratites 
+          were conflated with the Manichaeans and condemned as heretics by imperial edict.</p>
+        <p>Tatian was the author of several texts.  His Oration to the Greeks was a popular work of early Christian apology 
+          written in Greek and aimed at pagan readers.  It argued that Christian scriptures offered a philosophy that was 
+          superior to Greek and Roman intellectual traditions.  Tatian also wrote two other treatises -- <hi rend="italic">On Animals </hi>and <hi rend="italic">On Perfection According to the Savior</hi> -- 
+          both of which are now lost.  By far his most enduring composition, however, was a harmony of the four canonical Gospels with some excerpts from 
+          the Acts of the Apostles known as the Diatesseron (from the Greek, meaning "out of four").  The purpose of this work was to present the life of 
+          Christ as a single, coherent story, while reconciling some of the troubling contradictions between the Gospel narratives 
+          (for example, the conflicting genealogical tables in Luke and Matthew).  Scholars believe that Tatian composed the Diatesseron either 
+          in Syriac or in Greek.  The text was popular in the eastern Christian church until the fifth century, when it was actively suppressed 
+          due to the growing association of Tatian with the Encratite heresy.</p>
+        </div>
+        <div type="section" xml:id="preface-section-1">
+          <!--This is a section within the preface. Editors should use
+          sections (distinguished by <div>) to organize the content of the edition's preface.-->
+        </div>
+      </div>
+      <div type="section" xml:id="bibliography">
+        <head>Bibliography</head>
+        <!--This is where the bibliography for the edition is listed, including manuscript
+        descriptions, and lists of early editions, modern editions, and other sources cited
+        in the current edition. For more information on encoding the items in the bibliography
+        see section 3 Bibliography below. -->
+        <div type="section" xml:id="conspectus">
+          <head>Conspectus</head>
+          <!--A key to the special sigla and abbreviations used in the edition (drawn
+          from the @xml:id's assigned to the various items in the
+          bibliography). The list of sigla may be generated automatically. -->
+        </div>
+      </div>
+    </front>
+    <body>
+      <div type="edition" xml:id="edition-text" xml:space="preserve">
+        <div type="textpart" n="1" xml:id="part1">
+          <head>Title of First Part</head>
+          <!--Text goes here, according to the conventions laid out elsewhere in these guidelines.-->
+        </div>
+        <div type="textpart" n="2" xml:id="part2">
+          <head>Title of Second Part</head>
+          <!--Each new major section (e.g., book, volume) has a new <div>.-->
+        </div>
+      </div>
+    </body>
+    <back>
+      <!--The content of the back matter will be determined in consultation between
+      the editor and the staff of the DLL. Because LDLT editions are encoded, the
+      matter traditionally found in the back of a printed critical edition may be
+      generated by applications instead of having to be entered manually.
+      Nevertheless, there is space here for notes, indices, and other kinds of
+      information.-->
+    </back>
+  </text>
+</TEI>
