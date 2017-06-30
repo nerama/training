@@ -53,11 +53,12 @@
           from the @xml:id's assigned to the various items in the
           bibliography). The list of sigla may be generated automatically. -->
           <listWit>
-            <witness> xml:id="servius"><abbr type= "siglum">Servlus</abbr></witness>
-            <witness> xml:id="past"><abbr>"siglum">Pastrengius</abbr></witness>
-            <witness> xml:id="V"<abbr>"siglum">V</abbr>= <title>fons communis codicum OGR</title>1280?</witness>
-            <witness> xml:id="O"<abbr>"siglum">O</abbr>= <title>Oxoniensis Bodleianus Canonicianus class. lat.30</title></witness>
-            <witness> xml:id="G"<abbr>"siglum">G</abbr>= <title> Parisnus lat 14137</title></witness>
+            <witness xml:id="servius"><abbr type= "siglum">Servlus</abbr></witness>
+            <witness xml:id="past"><abbr>"siglum">Pastrengius</abbr></witness>
+            <witness xml:id="V"><abbr>"siglum">V</abbr>= <title>fons communis codicum OGR</title>1280?</witness>
+            <witness xml:id="O"><abbr>"siglum">O</abbr>= <title>Oxoniensis Bodleianus Canonicianus class. lat.30</title></witness>
+            <witness xml:id="G"><abbr>"siglum">G</abbr>= <title> Parisnus lat 14137</title></witness>
+            <witness xml:id="R"><abbr>"siglum">R</abbr>=<title>unknown</title></witness>
           </listWit>
         </div>
       </div>
@@ -69,7 +70,8 @@
           <!--Text goes here, according to the conventions laid out elsewhere in these guidelines.-->
           <l>
           Cui dono lepidum novum libellum </l>
-          <l><app><lem wit= "#servius #past #V">arida</lem><witDetail wit="#V">?</witDetail> <rdg wit="#O #G #R"></rdg></app> modo pumice expolitum? </l>
+          <l><app><lem wit="#servius #past #V">arida</lem><witDetail wit="#V">?</witDetail> <rdg wit="#O #G #R"></rdg></app> modo pumice expolitum? </l>
+          
           <l>Corneli, tibi: namque tu solebas</l>
           <l>meas esse aliquid putare nugas</l>
           <l>iam tum, cum ausus es unus Italorum</l>
